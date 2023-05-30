@@ -27,7 +27,7 @@ Datacollection.py file collects data from user for the model. Make sure that the
 
 Extract the file to the folder "Model"
 
-#### 2.main.py
+#### 2.Main.py
 Run this file and place our hand in front of the
 camera show the gustures and it will predict the hand sign.
 ## Screenshots
